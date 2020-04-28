@@ -1,6 +1,6 @@
 <?php 
 
-$imagens = scandir("images");   //mostra o  que está dentro da pasta. retorna um array.
+$imagens = scandir("images");   //mostra o que está dentro da pasta. retorna um array.
 $json = array();
 //print_r($imagens);
 
